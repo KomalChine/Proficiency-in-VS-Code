@@ -1,1 +1,1 @@
-# Proficiency-in-VS-Code
+Proficiency in VS Code is a collection of data science and machine learning practicals implemented in Python using VS Code. This repository includes experiments such as statistical tests, regression algorithms, Naive Bayes, confusion matrix, and Weka tool usage. It serves as a hands-on resources for mastering data analysis and model evaluation techniques.
